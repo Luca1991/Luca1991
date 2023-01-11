@@ -8,7 +8,7 @@ Here are some things about me:
 - I have a [YouTube channel](https://www.youtube.com/@LucaDAmico91/) where I talk about reverse engineering and malware analysis (in my mother tongue)
 - You can find me on [LinkedIn](https://www.linkedin.com/in/luca91/) and [Twitter](https://twitter.com/LucaDAmico91)
 - I'm the creator of [ReverseIT](https://www.reverseit.space/): the ITALiAN Reverse Engineering Space
-- Oh, I almost forgot..... I use Arch, btw™
+- Oh, almost forgot..... I use Arch, btw™
 
 
 # 📊 My GitHub Stats
