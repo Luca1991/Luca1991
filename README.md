@@ -10,21 +10,19 @@ Here are some things about me:
 - I'm the creator of [ReverseIT](https://www.reverseit.space/): the ITALiAN Reverse Engineering Space
 - Oh, I almost forgot..... I use Arch, btw™
 
-<br>
 
 # 📊 My GitHub Stats
 
-<center>
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Luca1991&theme=dark&hide_border=true&show_icons=true&line_height=40&count_private=true" alt="My GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luca1991&theme=dark&hide_border=true&hide=CMake&langs_count=5" />
-</center>
+</p>
 
-<br>
 
 # 🪙 Donations 
 
 If you find any of my software useful, you can support my work with a donation, thank you! ❤️
 
-<center>
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z511SOI)
-</center>
+<p align="center">
+    <a href="https://ko-fi.com/Z8Z511SOI"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg"></a>
+</p>
