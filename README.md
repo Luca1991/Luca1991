@@ -11,7 +11,7 @@ Here are some things about me:
 - Oh, almost forgot..... I use Arch, btw™
 
 
-# 📊 My GitHub Stats
+# 📊 My GitHub stats
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Luca1991&theme=dark&hide_border=true&show_icons=true&line_height=40&count_private=true" alt="My GitHub Stats" />
